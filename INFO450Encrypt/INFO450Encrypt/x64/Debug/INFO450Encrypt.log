@@ -1,0 +1,6 @@
+﻿  CaesarCipher.cpp
+c:\users\oyeba\source\repos\info450encrypt\info450encrypt\caesarcipher.cpp(30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\oyeba\source\repos\info450encrypt\info450encrypt\caesarcipher.cpp(56): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  INFO450Encrypt.vcxproj -> C:\Users\oyeba\source\repos\INFO450Encrypt\x64\Debug\INFO450Encrypt.exe
